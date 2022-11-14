@@ -11,7 +11,7 @@ const Contact = () => {
           <p className="inline text-4xl font-bold border-b-4 border-gray-500">
             Contact
           </p>
-          <p className="py-6">Submit the form below to get in touch with me</p>
+          <p className="py-6">Submit the form below to get in touch with me 😀</p>
         </div>
 
         <div className="flex items-center justify-center ">
